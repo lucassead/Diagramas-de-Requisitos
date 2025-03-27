@@ -189,6 +189,9 @@
         <mxCell id="bICacdWXR3jFW_Y6DTdI-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bICacdWXR3jFW_Y6DTdI-7" target="bICacdWXR3jFW_Y6DTdI-37">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="bICacdWXR3jFW_Y6DTdI-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bICacdWXR3jFW_Y6DTdI-7" target="bICacdWXR3jFW_Y6DTdI-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="bICacdWXR3jFW_Y6DTdI-7" value="Administrador" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="90" y="495" width="40" height="90" as="geometry" />
         </mxCell>
@@ -233,6 +236,9 @@
         </mxCell>
         <mxCell id="bICacdWXR3jFW_Y6DTdI-37" value="Gestão de Clientes" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="670" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bICacdWXR3jFW_Y6DTdI-40" value="Gestão de Fornecedores" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="760" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
