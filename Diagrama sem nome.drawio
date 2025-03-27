@@ -145,13 +145,13 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="bICacdWXR3jFW_Y6DTdI-1" value="Cliente" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="630" y="90" width="40" height="90" as="geometry" />
+          <mxGeometry x="500" y="550" width="40" height="90" as="geometry" />
         </mxCell>
         <mxCell id="bICacdWXR3jFW_Y6DTdI-5" value="Atendente" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="100" y="100" width="40" height="90" as="geometry" />
+          <mxGeometry x="80" y="85" width="40" height="90" as="geometry" />
         </mxCell>
         <mxCell id="bICacdWXR3jFW_Y6DTdI-6" value="Gerente" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="100" y="340" width="40" height="90" as="geometry" />
+          <mxGeometry x="360" y="710" width="40" height="90" as="geometry" />
         </mxCell>
         <mxCell id="bICacdWXR3jFW_Y6DTdI-7" value="Administrador" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="630" y="430" width="40" height="90" as="geometry" />
@@ -169,7 +169,7 @@
           <mxGeometry x="330" y="95" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="bICacdWXR3jFW_Y6DTdI-12" value="Gestão de Fornecedores" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="300" width="120" height="80" as="geometry" />
+          <mxGeometry x="200" y="290" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="bICacdWXR3jFW_Y6DTdI-13" value="Gestão de Usuários" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="190" width="120" height="80" as="geometry" />
@@ -177,11 +177,8 @@
         <mxCell id="bICacdWXR3jFW_Y6DTdI-14" value="Controles de Acesso" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="190" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="bICacdWXR3jFW_Y6DTdI-15" value="Levantamento de Requisitos" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="20" width="220" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="bICacdWXR3jFW_Y6DTdI-16" value="" style="whiteSpace=wrap;html=1;aspect=fixed;gradientColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="180" width="440" height="440" as="geometry" />
+        <mxCell id="bICacdWXR3jFW_Y6DTdI-17" value="Geração de Relatórios" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="290" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
