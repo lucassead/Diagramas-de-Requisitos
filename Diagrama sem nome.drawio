@@ -159,6 +159,9 @@
         <mxCell id="bICacdWXR3jFW_Y6DTdI-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bICacdWXR3jFW_Y6DTdI-5" target="bICacdWXR3jFW_Y6DTdI-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="bICacdWXR3jFW_Y6DTdI-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bICacdWXR3jFW_Y6DTdI-5" target="bICacdWXR3jFW_Y6DTdI-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="bICacdWXR3jFW_Y6DTdI-5" value="Atendente" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="90" y="130" width="40" height="90" as="geometry" />
         </mxCell>
@@ -221,6 +224,9 @@
         </mxCell>
         <mxCell id="bICacdWXR3jFW_Y6DTdI-33" value="Compra de Produtos" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="590" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bICacdWXR3jFW_Y6DTdI-35" value="Gestão de Clientes" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="280" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
